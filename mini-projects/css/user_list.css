@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins', 'sans-serif';
+}
+
+@media (max-width:767px) {
+    #user {
+        justify-content: center !important;
+        margin-top: 20px;
+    }
+}
